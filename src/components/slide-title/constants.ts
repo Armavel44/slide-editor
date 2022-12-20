@@ -1,0 +1,1 @@
+export const defaultTitle = 'Insert a title here';

@@ -1,0 +1,1 @@
+export {SlideTitle} from './slide-title'
